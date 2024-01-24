@@ -1,0 +1,1066 @@
+{  "2022-01-02": {
+    "positive": 1,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-01-04": {
+    "positive": 1,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-01-07": {
+    "positive": 0,
+    "negative": 2,
+    "dayAttitude": "negative"
+  },  "2022-01-09": {
+    "positive": 1,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-01-10": {
+    "positive": 0,
+    "negative": 2,
+    "dayAttitude": "negative"
+  },  "2022-01-11": {
+    "positive": 1,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-01-12": {
+    "positive": 0,
+    "negative": 0,
+    "dayAttitude": "neutual"
+  },  "2022-01-14": {
+    "positive": 0,
+    "negative": 1,
+    "dayAttitude": "negative"
+  },  "2022-01-13": {
+    "positive": 2,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-01-16": {
+    "positive": 0,
+    "negative": 1,
+    "dayAttitude": "negative"
+  },  "2022-01-15": {
+    "positive": 1,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-01-17": {
+    "positive": 1,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-01-18": {
+    "positive": 0,
+    "negative": 0,
+    "dayAttitude": "neutual"
+  },  "2022-01-19": {
+    "positive": 0,
+    "negative": 1,
+    "dayAttitude": "negative"
+  },  "2022-01-20": {
+    "positive": 0,
+    "negative": 1,
+    "dayAttitude": "negative"
+  },  "2022-01-22": {
+    "positive": 1,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-01-24": {
+    "positive": 1,
+    "negative": 1,
+    "dayAttitude": "neutual"
+  },  "2022-01-26": {
+    "positive": 0,
+    "negative": 1,
+    "dayAttitude": "negative"
+  },  "2022-01-27": {
+    "positive": 1,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-01-29": {
+    "positive": 1,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-01-31": {
+    "positive": 1,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-02-01": {
+    "positive": 0,
+    "negative": 0,
+    "dayAttitude": "neutual"
+  },  "2022-02-02": {
+    "positive": 1,
+    "negative": 1,
+    "dayAttitude": "neutual"
+  },  "2022-02-03": {
+    "positive": 0,
+    "negative": 0,
+    "dayAttitude": "neutual"
+  },  "2022-02-04": {
+    "positive": 0,
+    "negative": 0,
+    "dayAttitude": "neutual"
+  },  "2022-02-08": {
+    "positive": 1,
+    "negative": 1,
+    "dayAttitude": "neutual"
+  },  "2022-02-09": {
+    "positive": 2,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-02-10": {
+    "positive": 1,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-02-13": {
+    "positive": 0,
+    "negative": 0,
+    "dayAttitude": "neutual"
+  },  "2022-02-14": {
+    "positive": 0,
+    "negative": 3,
+    "dayAttitude": "negative"
+  },  "2022-02-16": {
+    "positive": 3,
+    "negative": 1,
+    "dayAttitude": "positive"
+  },  "2022-02-17": {
+    "positive": 1,
+    "negative": 2,
+    "dayAttitude": "negative"
+  },  "2022-02-18": {
+    "positive": 1,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-02-19": {
+    "positive": 0,
+    "negative": 0,
+    "dayAttitude": "neutual"
+  },  "2022-02-20": {
+    "positive": 2,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-02-21": {
+    "positive": 0,
+    "negative": 0,
+    "dayAttitude": "neutual"
+  },  "2022-02-23": {
+    "positive": 1,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-02-24": {
+    "positive": 0,
+    "negative": 1,
+    "dayAttitude": "negative"
+  },  "2022-02-25": {
+    "positive": 0,
+    "negative": 0,
+    "dayAttitude": "neutual"
+  },  "2022-02-26": {
+    "positive": 1,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-02-27": {
+    "positive": 2,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-03-01": {
+    "positive": 1,
+    "negative": 2,
+    "dayAttitude": "negative"
+  },  "2022-03-03": {
+    "positive": 0,
+    "negative": 1,
+    "dayAttitude": "negative"
+  },  "2022-03-04": {
+    "positive": 0,
+    "negative": 1,
+    "dayAttitude": "negative"
+  },  "2022-03-05": {
+    "positive": 1,
+    "negative": 1,
+    "dayAttitude": "neutual"
+  },  "2022-03-07": {
+    "positive": 1,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-03-10": {
+    "positive": 0,
+    "negative": 0,
+    "dayAttitude": "neutual"
+  },  "2022-03-14": {
+    "positive": 1,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-03-15": {
+    "positive": 0,
+    "negative": 1,
+    "dayAttitude": "negative"
+  },  "2022-03-18": {
+    "positive": 1,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-03-19": {
+    "positive": 1,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-03-20": {
+    "positive": 0,
+    "negative": 1,
+    "dayAttitude": "negative"
+  },  "2022-03-22": {
+    "positive": 0,
+    "negative": 0,
+    "dayAttitude": "neutual"
+  },  "2022-03-24": {
+    "positive": 1,
+    "negative": 1,
+    "dayAttitude": "neutual"
+  },  "2022-03-25": {
+    "positive": 1,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-03-26": {
+    "positive": 1,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-03-27": {
+    "positive": 0,
+    "negative": 1,
+    "dayAttitude": "negative"
+  },  "2022-03-29": {
+    "positive": 4,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-03-30": {
+    "positive": 0,
+    "negative": 1,
+    "dayAttitude": "negative"
+  },  "2022-03-31": {
+    "positive": 1,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-04-02": {
+    "positive": 1,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-04-05": {
+    "positive": 0,
+    "negative": 0,
+    "dayAttitude": "neutual"
+  },  "2022-04-07": {
+    "positive": 2,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-04-08": {
+    "positive": 1,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-04-09": {
+    "positive": 1,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-04-12": {
+    "positive": 2,
+    "negative": 1,
+    "dayAttitude": "positive"
+  },  "2022-04-13": {
+    "positive": 2,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-04-14": {
+    "positive": 2,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-04-17": {
+    "positive": 1,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-04-19": {
+    "positive": 2,
+    "negative": 2,
+    "dayAttitude": "neutual"
+  },  "2022-04-20": {
+    "positive": 1,
+    "negative": 1,
+    "dayAttitude": "neutual"
+  },  "2022-04-22": {
+    "positive": 1,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-04-23": {
+    "positive": 1,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-04-24": {
+    "positive": 1,
+    "negative": 1,
+    "dayAttitude": "neutual"
+  },  "2022-04-25": {
+    "positive": 0,
+    "negative": 1,
+    "dayAttitude": "negative"
+  },  "2022-04-26": {
+    "positive": 1,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-04-27": {
+    "positive": 1,
+    "negative": 1,
+    "dayAttitude": "neutual"
+  },  "2022-04-28": {
+    "positive": 2,
+    "negative": 1,
+    "dayAttitude": "positive"
+  },  "2022-04-29": {
+    "positive": 0,
+    "negative": 2,
+    "dayAttitude": "negative"
+  },  "2022-05-02": {
+    "positive": 0,
+    "negative": 1,
+    "dayAttitude": "negative"
+  },  "2022-05-03": {
+    "positive": 0,
+    "negative": 0,
+    "dayAttitude": "neutual"
+  },  "2022-05-04": {
+    "positive": 0,
+    "negative": 0,
+    "dayAttitude": "neutual"
+  },  "2022-05-08": {
+    "positive": 0,
+    "negative": 1,
+    "dayAttitude": "negative"
+  },  "2022-05-07": {
+    "positive": 0,
+    "negative": 1,
+    "dayAttitude": "negative"
+  },  "2022-05-09": {
+    "positive": 1,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-05-10": {
+    "positive": 2,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-05-11": {
+    "positive": 1,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-05-12": {
+    "positive": 1,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-05-13": {
+    "positive": 1,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-05-16": {
+    "positive": 1,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-05-17": {
+    "positive": 0,
+    "negative": 1,
+    "dayAttitude": "negative"
+  },  "2022-05-18": {
+    "positive": 2,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-05-19": {
+    "positive": 0,
+    "negative": 1,
+    "dayAttitude": "negative"
+  },  "2022-05-20": {
+    "positive": 1,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-05-22": {
+    "positive": 1,
+    "negative": 2,
+    "dayAttitude": "negative"
+  },  "2022-05-23": {
+    "positive": 1,
+    "negative": 1,
+    "dayAttitude": "neutual"
+  },  "2022-05-24": {
+    "positive": 0,
+    "negative": 1,
+    "dayAttitude": "negative"
+  },  "2022-05-27": {
+    "positive": 2,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-05-28": {
+    "positive": 0,
+    "negative": 1,
+    "dayAttitude": "negative"
+  },  "2022-06-04": {
+    "positive": 0,
+    "negative": 1,
+    "dayAttitude": "negative"
+  },  "2022-06-03": {
+    "positive": 1,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-06-05": {
+    "positive": 2,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-06-08": {
+    "positive": 1,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-06-10": {
+    "positive": 0,
+    "negative": 0,
+    "dayAttitude": "neutual"
+  },  "2022-06-11": {
+    "positive": 3,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-06-12": {
+    "positive": 0,
+    "negative": 4,
+    "dayAttitude": "negative"
+  },  "2022-06-13": {
+    "positive": 3,
+    "negative": 1,
+    "dayAttitude": "positive"
+  },  "2022-06-14": {
+    "positive": 0,
+    "negative": 1,
+    "dayAttitude": "negative"
+  },  "2022-06-16": {
+    "positive": 1,
+    "negative": 1,
+    "dayAttitude": "neutual"
+  },  "2022-06-18": {
+    "positive": 1,
+    "negative": 2,
+    "dayAttitude": "negative"
+  },  "2022-06-19": {
+    "positive": 1,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-06-20": {
+    "positive": 1,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-06-22": {
+    "positive": 1,
+    "negative": 1,
+    "dayAttitude": "neutual"
+  },  "2022-06-23": {
+    "positive": 2,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-06-25": {
+    "positive": 0,
+    "negative": 1,
+    "dayAttitude": "negative"
+  },  "2022-06-26": {
+    "positive": 2,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-06-28": {
+    "positive": 1,
+    "negative": 1,
+    "dayAttitude": "neutual"
+  },  "2022-07-01": {
+    "positive": 3,
+    "negative": 1,
+    "dayAttitude": "positive"
+  },  "2022-07-03": {
+    "positive": 0,
+    "negative": 1,
+    "dayAttitude": "negative"
+  },  "2022-07-06": {
+    "positive": 1,
+    "negative": 2,
+    "dayAttitude": "negative"
+  },  "2022-07-07": {
+    "positive": 2,
+    "negative": 1,
+    "dayAttitude": "positive"
+  },  "2022-07-10": {
+    "positive": 0,
+    "negative": 0,
+    "dayAttitude": "neutual"
+  },  "2022-07-11": {
+    "positive": 2,
+    "negative": 1,
+    "dayAttitude": "positive"
+  },  "2022-07-13": {
+    "positive": 5,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-07-14": {
+    "positive": 0,
+    "negative": 0,
+    "dayAttitude": "neutual"
+  },  "2022-07-15": {
+    "positive": 2,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-07-17": {
+    "positive": 2,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-07-18": {
+    "positive": 1,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-07-19": {
+    "positive": 1,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-07-25": {
+    "positive": 0,
+    "negative": 0,
+    "dayAttitude": "neutual"
+  },  "2022-07-27": {
+    "positive": 2,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-07-26": {
+    "positive": 0,
+    "negative": 0,
+    "dayAttitude": "neutual"
+  },  "2022-07-28": {
+    "positive": 1,
+    "negative": 1,
+    "dayAttitude": "neutual"
+  },  "2022-07-29": {
+    "positive": 2,
+    "negative": 1,
+    "dayAttitude": "positive"
+  },  "2022-07-31": {
+    "positive": 1,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-08-01": {
+    "positive": 2,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-08-04": {
+    "positive": 1,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-08-03": {
+    "positive": 0,
+    "negative": 1,
+    "dayAttitude": "negative"
+  },  "2022-08-05": {
+    "positive": 2,
+    "negative": 1,
+    "dayAttitude": "positive"
+  },  "2022-08-06": {
+    "positive": 0,
+    "negative": 1,
+    "dayAttitude": "negative"
+  },  "2022-08-07": {
+    "positive": 1,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-08-09": {
+    "positive": 1,
+    "negative": 1,
+    "dayAttitude": "neutual"
+  },  "2022-08-10": {
+    "positive": 4,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-08-11": {
+    "positive": 0,
+    "negative": 1,
+    "dayAttitude": "negative"
+  },  "2022-08-13": {
+    "positive": 1,
+    "negative": 1,
+    "dayAttitude": "neutual"
+  },  "2022-08-14": {
+    "positive": 1,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-08-15": {
+    "positive": 1,
+    "negative": 2,
+    "dayAttitude": "negative"
+  },  "2022-08-16": {
+    "positive": 1,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-08-17": {
+    "positive": 8,
+    "negative": 2,
+    "dayAttitude": "positive"
+  },  "2022-08-18": {
+    "positive": 4,
+    "negative": 1,
+    "dayAttitude": "positive"
+  },  "2022-08-19": {
+    "positive": 4,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-08-20": {
+    "positive": 1,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-08-22": {
+    "positive": 0,
+    "negative": 3,
+    "dayAttitude": "negative"
+  },  "2022-08-23": {
+    "positive": 1,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-08-24": {
+    "positive": 3,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-08-25": {
+    "positive": 1,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-08-26": {
+    "positive": 3,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-08-27": {
+    "positive": 3,
+    "negative": 1,
+    "dayAttitude": "positive"
+  },  "2022-08-28": {
+    "positive": 0,
+    "negative": 1,
+    "dayAttitude": "negative"
+  },  "2022-08-29": {
+    "positive": 1,
+    "negative": 3,
+    "dayAttitude": "negative"
+  },  "2022-08-31": {
+    "positive": 4,
+    "negative": 2,
+    "dayAttitude": "positive"
+  },  "2022-09-01": {
+    "positive": 1,
+    "negative": 1,
+    "dayAttitude": "neutual"
+  },  "2022-09-03": {
+    "positive": 0,
+    "negative": 1,
+    "dayAttitude": "negative"
+  },  "2022-09-05": {
+    "positive": 1,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-09-06": {
+    "positive": 2,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-09-07": {
+    "positive": 0,
+    "negative": 1,
+    "dayAttitude": "negative"
+  },  "2022-09-09": {
+    "positive": 0,
+    "negative": 1,
+    "dayAttitude": "negative"
+  },  "2022-09-13": {
+    "positive": 1,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-09-15": {
+    "positive": 1,
+    "negative": 1,
+    "dayAttitude": "neutual"
+  },  "2022-09-16": {
+    "positive": 1,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-09-17": {
+    "positive": 0,
+    "negative": 1,
+    "dayAttitude": "negative"
+  },  "2022-09-19": {
+    "positive": 4,
+    "negative": 1,
+    "dayAttitude": "positive"
+  },  "2022-09-20": {
+    "positive": 2,
+    "negative": 2,
+    "dayAttitude": "neutual"
+  },  "2022-09-21": {
+    "positive": 1,
+    "negative": 1,
+    "dayAttitude": "neutual"
+  },  "2022-09-22": {
+    "positive": 4,
+    "negative": 3,
+    "dayAttitude": "positive"
+  },  "2022-09-23": {
+    "positive": 2,
+    "negative": 1,
+    "dayAttitude": "positive"
+  },  "2022-09-24": {
+    "positive": 1,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-09-25": {
+    "positive": 2,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-09-26": {
+    "positive": 0,
+    "negative": 0,
+    "dayAttitude": "neutual"
+  },  "2022-09-27": {
+    "positive": 1,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-09-28": {
+    "positive": 2,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-09-29": {
+    "positive": 3,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-09-30": {
+    "positive": 5,
+    "negative": 1,
+    "dayAttitude": "positive"
+  },  "2022-10-01": {
+    "positive": 0,
+    "negative": 1,
+    "dayAttitude": "negative"
+  },  "2022-10-02": {
+    "positive": 0,
+    "negative": 2,
+    "dayAttitude": "negative"
+  },  "2022-10-03": {
+    "positive": 1,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-10-04": {
+    "positive": 0,
+    "negative": 0,
+    "dayAttitude": "neutual"
+  },  "2022-10-05": {
+    "positive": 1,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-10-07": {
+    "positive": 0,
+    "negative": 1,
+    "dayAttitude": "negative"
+  },  "2022-10-06": {
+    "positive": 1,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-10-08": {
+    "positive": 0,
+    "negative": 0,
+    "dayAttitude": "neutual"
+  },  "2022-10-11": {
+    "positive": 4,
+    "negative": 1,
+    "dayAttitude": "positive"
+  },  "2022-10-12": {
+    "positive": 1,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-10-14": {
+    "positive": 0,
+    "negative": 2,
+    "dayAttitude": "negative"
+  },  "2022-10-15": {
+    "positive": 0,
+    "negative": 1,
+    "dayAttitude": "negative"
+  },  "2022-10-16": {
+    "positive": 1,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-10-18": {
+    "positive": 0,
+    "negative": 2,
+    "dayAttitude": "negative"
+  },  "2022-10-17": {
+    "positive": 1,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-10-19": {
+    "positive": 0,
+    "negative": 0,
+    "dayAttitude": "neutual"
+  },  "2022-10-20": {
+    "positive": 2,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-10-21": {
+    "positive": 1,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-10-23": {
+    "positive": 2,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-10-24": {
+    "positive": 1,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-10-25": {
+    "positive": 1,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-10-26": {
+    "positive": 3,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-10-27": {
+    "positive": 2,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-10-28": {
+    "positive": 0,
+    "negative": 1,
+    "dayAttitude": "negative"
+  },  "2022-10-29": {
+    "positive": 2,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-10-31": {
+    "positive": 1,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-11-01": {
+    "positive": 3,
+    "negative": 1,
+    "dayAttitude": "positive"
+  },  "2022-11-02": {
+    "positive": 1,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-11-03": {
+    "positive": 1,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-11-04": {
+    "positive": 2,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-11-05": {
+    "positive": 2,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-11-06": {
+    "positive": 1,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-11-07": {
+    "positive": 2,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-11-08": {
+    "positive": 1,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-11-09": {
+    "positive": 0,
+    "negative": 0,
+    "dayAttitude": "neutual"
+  },  "2022-11-10": {
+    "positive": 1,
+    "negative": 2,
+    "dayAttitude": "negative"
+  },  "2022-11-11": {
+    "positive": 2,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-11-12": {
+    "positive": 0,
+    "negative": 0,
+    "dayAttitude": "neutual"
+  },  "2022-11-13": {
+    "positive": 1,
+    "negative": 1,
+    "dayAttitude": "neutual"
+  },  "2022-11-15": {
+    "positive": 1,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-11-16": {
+    "positive": 1,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-11-17": {
+    "positive": 1,
+    "negative": 1,
+    "dayAttitude": "neutual"
+  },  "2022-11-19": {
+    "positive": 1,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-11-20": {
+    "positive": 0,
+    "negative": 1,
+    "dayAttitude": "negative"
+  },  "2022-11-21": {
+    "positive": 3,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-11-23": {
+    "positive": 2,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-11-22": {
+    "positive": 1,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-11-24": {
+    "positive": 1,
+    "negative": 3,
+    "dayAttitude": "negative"
+  },  "2022-11-25": {
+    "positive": 1,
+    "negative": 1,
+    "dayAttitude": "neutual"
+  },  "2022-11-27": {
+    "positive": 1,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-11-28": {
+    "positive": 1,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-11-29": {
+    "positive": 1,
+    "negative": 1,
+    "dayAttitude": "neutual"
+  },  "2022-12-01": {
+    "positive": 1,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-11-30": {
+    "positive": 0,
+    "negative": 1,
+    "dayAttitude": "negative"
+  },  "2022-12-02": {
+    "positive": 1,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-12-03": {
+    "positive": 2,
+    "negative": 4,
+    "dayAttitude": "negative"
+  },  "2022-12-04": {
+    "positive": 2,
+    "negative": 1,
+    "dayAttitude": "positive"
+  },  "2022-12-05": {
+    "positive": 3,
+    "negative": 1,
+    "dayAttitude": "positive"
+  },  "2022-12-06": {
+    "positive": 0,
+    "negative": 2,
+    "dayAttitude": "negative"
+  },  "2022-12-07": {
+    "positive": 3,
+    "negative": 1,
+    "dayAttitude": "positive"
+  },  "2022-12-08": {
+    "positive": 4,
+    "negative": 2,
+    "dayAttitude": "positive"
+  },  "2022-12-09": {
+    "positive": 4,
+    "negative": 2,
+    "dayAttitude": "positive"
+  },  "2022-12-10": {
+    "positive": 0,
+    "negative": 0,
+    "dayAttitude": "neutual"
+  },  "2022-12-11": {
+    "positive": 2,
+    "negative": 2,
+    "dayAttitude": "neutual"
+  },  "2022-12-12": {
+    "positive": 1,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-12-13": {
+    "positive": 3,
+    "negative": 1,
+    "dayAttitude": "positive"
+  },  "2022-12-14": {
+    "positive": 4,
+    "negative": 1,
+    "dayAttitude": "positive"
+  },  "2022-12-15": {
+    "positive": 3,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-12-16": {
+    "positive": 4,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-12-17": {
+    "positive": 1,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-12-18": {
+    "positive": 4,
+    "negative": 1,
+    "dayAttitude": "positive"
+  },  "2022-12-20": {
+    "positive": 1,
+    "negative": 3,
+    "dayAttitude": "negative"
+  },  "2022-12-21": {
+    "positive": 1,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-12-22": {
+    "positive": 0,
+    "negative": 1,
+    "dayAttitude": "negative"
+  },  "2022-12-23": {
+    "positive": 3,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-12-24": {
+    "positive": 2,
+    "negative": 1,
+    "dayAttitude": "positive"
+  },  "2022-12-25": {
+    "positive": 0,
+    "negative": 0,
+    "dayAttitude": "neutual"
+  },  "2022-12-26": {
+    "positive": 5,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-12-27": {
+    "positive": 3,
+    "negative": 2,
+    "dayAttitude": "positive"
+  },  "2022-12-28": {
+    "positive": 2,
+    "negative": 1,
+    "dayAttitude": "positive"
+  },  "2022-12-29": {
+    "positive": 8,
+    "negative": 2,
+    "dayAttitude": "positive"
+  },  "2022-12-30": {
+    "positive": 4,
+    "negative": 0,
+    "dayAttitude": "positive"
+  },  "2022-12-31": {
+    "positive": 3,
+    "negative": 0,
+    "dayAttitude": "positive"
+  }
+}
